@@ -131,3 +131,27 @@ If you want, I can also explain:
 * how this compares to quantum non-locality (very different!)
 * why fields were such a revolutionary idea
 * or how Newtonian gravity can be reformulated in a *field* language to reduce the discomfort
+
+# Simple Summary
+
+Here’s the same idea in **plain, everyday language**:
+
+Newton’s theory says that **objects can pull on each other instantly, no matter how far apart they are**. If something changes in one place, everything else “feels it” right away.
+
+That’s strange because:
+
+* there’s **no messenger** carrying the pull,
+* nothing is shown to **travel through space**,
+* and the effect happens **with no delay at all**.
+
+This leads to confusing questions like:
+
+* *How does the Earth know the Sun is there?*
+* *How can something far away affect you immediately?*
+
+Those are the “paradoxes” people talk about.
+
+Later, Einstein fixed this by saying gravity **doesn’t act instantly**. Instead, space itself changes shape, and those changes **spread at a limited speed (the speed of light)**, which makes cause and effect make sense again.
+
+**In short:**
+Newton’s gravity works well, but it feels mysterious because it lets things affect each other instantly across empty space, with no clear explanation of how.
